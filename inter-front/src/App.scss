@@ -1,0 +1,19 @@
+@import "custom";
+h1 {
+  &.h1-mt-3em {
+    margin-top: 3em;
+  }
+}
+
+blockquote{
+  &.center{
+  text-indent: 3em;
+  text-align: center;
+  }
+}
+
+footer{
+  &.right{
+  text-align: right;
+  }
+}
