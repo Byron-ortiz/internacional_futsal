@@ -110,6 +110,8 @@ function App() {
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
+    contentStyle={{ background: '#DCE1E7', color: 'black' }}
+    contentArrowStyle={{ borderRight: '7px solid  #DCE1E7' }}
     date="11 Julio 2021"
     iconStyle={{ background: '#013A79', color: '#fff' }}
     // icon={<WorkIcon />}
@@ -120,6 +122,8 @@ function App() {
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
+    contentStyle={{ background: '#DCE1E7', color: 'black' }}
+    contentArrowStyle={{ borderRight: '7px solid  #DCE1E7' }}
     date="6 Noviembre 2021"
     iconStyle={{ background: '#013A79', color: '#fff' }}
     // icon={<WorkIcon />}
@@ -132,6 +136,8 @@ function App() {
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
+    contentStyle={{ background: '#DCE1E7', color: 'black' }}
+    contentArrowStyle={{ borderRight: '7px solid  #DCE1E7' }}
     date="17 Diciembre 2021"
     iconStyle={{ background: '#013A79', color: '#fff' }}
     // icon={<WorkIcon />}
@@ -144,6 +150,8 @@ function App() {
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--education"
+    contentStyle={{ background: '#DCE1E7', color: 'black' }}
+    contentArrowStyle={{ borderRight: '7px solid  #DCE1E7' }}
     date="18 Diciembre 2021 "
     iconStyle={{ background: '#013A79', color: '#fff' }}
     // icon={<SchoolIcon />}
@@ -156,6 +164,8 @@ function App() {
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--education"
+    contentStyle={{ background: '#DCE1E7', color: 'black' }}
+    contentArrowStyle={{ borderRight: '7px solid  #DCE1E7' }}
     date="14 Febrero 2022"
     iconStyle={{ background: '#013A79', color: '#fff' }}
     // icon={<SchoolIcon />}
@@ -168,6 +178,8 @@ function App() {
   </VerticalTimelineElement>
   <VerticalTimelineElement
     className="vertical-timeline-element--education"
+    contentStyle={{ background: '#DCE1E7', color: 'black' }}
+    contentArrowStyle={{ borderRight: '7px solid  #DCE1E7' }}
     date="Marzo - Junio 2022"
     iconStyle={{ background: '#013A79', color: '#fff' }}
     // icon={<SchoolIcon />}
