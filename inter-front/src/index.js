@@ -2,8 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import './App.scss';
-import 'bootstrap/scss/bootstrap.scss';
 import 'react-vertical-timeline-component/style.min.css';
 
 
